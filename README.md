@@ -1,2 +1,2 @@
 # Translation-App
-A simple Tamil to English offline translation app
+A simple offline translation app
