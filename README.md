@@ -7,7 +7,6 @@ SPEAKSMART is an innovative speech translation app that enables seamless multili
 ---
 
 ## Features
-
 - **🔹 Offline Functionality**
   - Works without an internet connection.
   - Download language packs in advance for uninterrupted use.
@@ -23,7 +22,6 @@ SPEAKSMART is an innovative speech translation app that enables seamless multili
 ---
 
 ## Installation
-
 1. **Download the App**
    - Visit the official app store and download SPEAKSMART.
 
@@ -34,12 +32,10 @@ SPEAKSMART is an innovative speech translation app that enables seamless multili
    - Open the app and begin real-time translation.
 
 ---
-
 ## Usage
 
 1. **Open the App**
    - Launch SPEAKSMART on your device.
-
 2. **Select Languages**
    - Choose the source and target languages for translation.
 
@@ -62,10 +58,9 @@ SPEAKSMART is an innovative speech translation app that enables seamless multili
 ## Contributing
 
 We welcome contributions! If you’d like to contribute to the development of SPEAKSMART, please follow these steps:
-
-1. **Fork the Repository**
-   ```
-   git clone https://github.com/your-username/speaksmart.git
-2.**Create a New Branch**
 ```
-git checkout -b feature-branch
+   git clone https://github.com/your-username/speaksmart.git
+   git checkout -b feature-branch
+   git commit -m "Added new feature
+   git push origin feature-branch
+'''
