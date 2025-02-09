@@ -63,4 +63,3 @@ We welcome contributions! If you’d like to contribute to the development of SP
    git checkout -b feature-branch
    git commit -m "Added new feature
    git push origin feature-branch
-'''
