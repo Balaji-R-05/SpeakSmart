@@ -1,2 +1,2 @@
-# Translation-App
-A simple offline translation app
+# SPEAKSMART
+## Real-Time Speech Offline Translation App for Seamless Multilingual Communication
