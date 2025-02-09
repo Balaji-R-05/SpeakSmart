@@ -1,4 +1,4 @@
-# SPEAKSMART - Real-Time Offline Speech Translation App
+# SpeakSmart - Real-Time Offline Speech Translation App
 
 **SPEAKSMART** is an innovative speech translation app that enables seamless multilingual communication in real-time. With its offline capabilities, users can communicate effortlessly without needing an internet connection, making it ideal for travelers, business professionals, and global connections.
 
