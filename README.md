@@ -47,7 +47,7 @@ SPEAKSMART is an innovative speech translation app that enables seamless multili
 ## Contributing
 We welcome contributions! If you’d like to contribute to the development of SPEAKSMART, please follow these steps:
 ```
-   git clone https://github.com/your-username/speaksmart.git
+   git clone https://github.com/Balaji-R-05/speaksmart.git
    git checkout -b feature-branch
    git commit -m "Added new feature
    git push origin feature-branch
